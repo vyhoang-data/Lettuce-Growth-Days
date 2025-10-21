@@ -51,7 +51,7 @@ This project investigates how environmental factors **(temperature, humidity, TD
   
 **Question 1:** Can lettuce growth be predicted from environmental factors (temperature, humidity, TDS, pH)?
 
-*=>Answer:* No. correlational analysis shows very weak relationships between these factors and lettuce growth.
+*=>Answer:* No. Correlational analysis shows very weak relationships between these factors and lettuce growth.
 
 **Question 2:** How does the insight help inform next season’s planning?
 
